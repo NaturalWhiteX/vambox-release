@@ -1,5 +1,5 @@
 # 介绍
-这是 VaM Box 的发布主页。
+这是 VaM Box 的官方发布主页。
 
 VaM 盒子（VaM Box），这是针对《Virt A Mate》游戏的辅助应用，该软件适用于 Windows 平台。VaM Box 是 Hello VaM 的重构版本，将会有更快的速度与更好的用户体验。目前正在 VaM Box 正在公开测试中。
 
